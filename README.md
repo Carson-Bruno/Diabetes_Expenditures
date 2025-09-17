@@ -1,5 +1,5 @@
 # Diabetes_Expenditures
-Analyzing and visualizing expenditures attributable to Diabetes from 2019-2023 
+Analyzing and visualizing expenditures directly attributable to Diabetes in the US from 2019-2023 
 
 ## Data:
 
