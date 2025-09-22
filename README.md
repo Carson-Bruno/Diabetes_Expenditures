@@ -1,6 +1,7 @@
 # Diabetes_Expenditures
 Analyzing and visualizing expenditures directly attributable to Diabetes in the US from 2019-2023 
 
+[Tableau Dashboard](https://public.tableau.com/app/profile/carson.bruno/viz/diabetes_expenditure_dashboard/Dashboard1)
 ## Data:
 
 All Data was sourced from [MEPS](https://meps.ahrq.gov/data_stats/download_data_files.jsp), 8 files were used across all 5 years:
