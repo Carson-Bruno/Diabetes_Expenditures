@@ -19,12 +19,10 @@ All Data was sourced from [MEPS](https://meps.ahrq.gov/data_stats/download_data_
 - Diabetes related conditions were filtered based on ICD10CM code E11 and these conditions were linked to all event datasets using the eventlink file.
 - Yearly files were merged into a single table and person level weights were applied to expenditures to ensure nationall representative values.
 
-## Visualization - IN progress
+## Questions
 
-- [x] Total number of treated patients per year
-- [x] Expenses by payer and event type
-- [x] Average payment per person per event type 
-- [ ] Expenses by prescription type
-- [ ] percent change since selected year
-- [ ] adjust values for inflation
-
+- How have total expenditures changed in the 5 year period
+- What is the distribution of expenses by payer and event type
+- What factors are driving potential increases in expenses
+- what specific medications contribute most to rising costs
+![screen](https://github.com/Carson-Bruno/Diabetes_Expenditures/blob/main/dashboard_progress.png)
