@@ -18,7 +18,7 @@ All Data was sourced from [MEPS](https://meps.ahrq.gov/data_stats/download_data_
 ## Preprocessing
 
 - Data was loaded and transformed in Python using pandas.
-- Diabetes related conditions were filtered based on ICD10CM code E11 and these conditions were linked to all event datasets using the eventlink file.
+- Diabetes related conditions were filtered based on ICD-10-CM code E11 and these conditions were linked to all event datasets using the eventlink file.
 - Yearly files were merged into a single table and person level weights were applied to expenditures to ensure nationaly representative values.
 
 ## Questions
